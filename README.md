@@ -4,9 +4,9 @@ Small utility to concatenate go files into one.
 
 # Usage
 
-    ```
+```
     gocat <path to package>
-    ```
+```
 
 If you don't provide a path it'll use the current directory.
 
